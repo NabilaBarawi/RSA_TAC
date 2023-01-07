@@ -5,12 +5,12 @@
     
 2. gui.java file
     I already put the text box and button. these 2 need to put comman in them. U can create how u want to show the output as long u have those:
-        - value P (may be in byte string)
-        - value q (may be in byte string)
-        - text input
-        - encrypted (byte string)
-        - decrypted (byte string)
-        - outpupt (will return text)
+        1) value P (may be in byte string)
+        2) value q (may be in byte string)
+        3) text input
+        4) encrypted (byte string)
+        5) decrypted (byte string)
+        6) outpupt (will return text)
         
-       for encrypted & decrypted function i already put under mark /* */. 
+   for encrypted & decrypted function i already put under mark /* */. 
        
